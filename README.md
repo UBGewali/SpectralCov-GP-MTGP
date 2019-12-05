@@ -15,3 +15,6 @@ This repository contains MATLAB code for vegetation paramter estimation from hyp
 Please consider citing the following article if you use the code in this repository: 
 
 U. B. Gewali, S. T. Monteiro and E. Saber, "Gaussian processes for vegetation parameter estimation with limited ground truth," Remote Sensing, 2019. [[article](https://doi.org/10.3390/rs11131614)][[bibtex](citation.bib)]
+
+## Contact
+Utsav Gewali (ubg9540@rit.edu)
